@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Recognition using Python
 <br>
 
 <ul>
